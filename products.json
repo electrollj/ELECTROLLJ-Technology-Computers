@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Apex Pro 16 Laptop",
+    "category": "Laptops & PCs",
+    "price": 1299,
+    "emoji": "\ud83d\udcbb"
+  },
+  {
+    "id": 2,
+    "name": "NovaBook Air 14",
+    "category": "Laptops & PCs",
+    "price": 899,
+    "emoji": "\ud83d\udcbb"
+  },
+  {
+    "id": 3,
+    "name": "Titan RTX Desktop",
+    "category": "Laptops & PCs",
+    "price": 1799,
+    "emoji": "\ud83d\udda5\ufe0f"
+  },
+  {
+    "id": 4,
+    "name": "Velocity Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 119,
+    "emoji": "\u2328\ufe0f"
+  },
+  {
+    "id": 5,
+    "name": "Pulse Wireless Mouse",
+    "category": "Accessories",
+    "price": 69,
+    "emoji": "\ud83d\uddb1\ufe0f"
+  },
+  {
+    "id": 6,
+    "name": "StudioView 27 Monitor",
+    "category": "Hardware",
+    "price": 329,
+    "emoji": "\ud83d\udda5\ufe0f"
+  },
+  {
+    "id": 7,
+    "name": "CoreX Processor",
+    "category": "Hardware",
+    "price": 389,
+    "emoji": "\ud83d\udd32"
+  },
+  {
+    "id": 8,
+    "name": "HyperDrive SSD 2TB",
+    "category": "Hardware",
+    "price": 179,
+    "emoji": "\ud83d\udcbe"
+  },
+  {
+    "id": 9,
+    "name": "Phantom Gaming Headset",
+    "category": "Gaming",
+    "price": 149,
+    "emoji": "\ud83c\udfa7"
+  },
+  {
+    "id": 10,
+    "name": "Orbit Wireless Controller",
+    "category": "Gaming",
+    "price": 79,
+    "emoji": "\ud83c\udfae"
+  },
+  {
+    "id": 11,
+    "name": "ConnectHub USB-C Dock",
+    "category": "IT Solutions",
+    "price": 139,
+    "emoji": "\ud83d\udd0c"
+  },
+  {
+    "id": 12,
+    "name": "MeshWave Wi-Fi Router",
+    "category": "IT Solutions",
+    "price": 219,
+    "emoji": "\ud83d\udce1"
+  }
+]
